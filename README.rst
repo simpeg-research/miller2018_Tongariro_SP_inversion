@@ -29,6 +29,8 @@ There are 2 notebooks in this repository:
 
 Dependencies are specified in `requirements.txt <https://github.com/simpeg-research/miller2018_Tongariro_SP_inversion/blob/master/requirements.txt>`_
 
+Note that 32Gb ram is recommended to run these models.
+
 .. code::
 
     pip install -r requirements.txt
