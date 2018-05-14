@@ -14,5 +14,4 @@ dependencies:
     - pymatsolver
     - discretize
     - colorcet
-    - tarfile
     - git+https://github.com/simpeg/simpeg.git@SP_spherical
