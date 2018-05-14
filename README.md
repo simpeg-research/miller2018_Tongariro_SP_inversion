@@ -1,4 +1,7 @@
 # miller2018_Tongariro_SP_inversion
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg-research/miller2018_Tongariro_SP_inversion.git/master?filepath=notebooks)
+
 Notebooks to run inversion code for SP models at Mt Tongariro hydrothermal system. Published as "Segmentation of vapour and condensate in a hydrothermal system: Insights from self-potential inversion at Mount Tongariro, New Zealand"
 
 ![Tongariro Js model](https://github.com/simpeg-research/miller2018_Tongariro_SP_inversion/blob/master/Figure2_Js_model.png)
