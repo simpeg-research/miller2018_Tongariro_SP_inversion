@@ -6,5 +6,6 @@ mkl
 pymatsolver
 ipywidgets
 scikit-learn
+pandas
 colorcet
 git+https://github.com/simpeg/simpeg.git@SP_spherical
