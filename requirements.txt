@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+jupyter
+mkl
+pymatsolver
+ipywidgets
+scikit-learn
+colorcet
+tarfile
+git+https://github.com/simpeg/simpeg.git@SP_spherical
