@@ -4,9 +4,6 @@ miller2018_Tongariro_SP_inversion
 .. image:: https://travis-ci.org/simpeg-research/miller2018_Tongariro_SP_inversion.svg?branch=master
     :target: https://travis-ci.org/simpeg-research/miller2018_Tongariro_SP_inversion
 
-.. image:: https://mybinder.org/badge.svg
-    :target: https://mybinder.org/v2/gh/simpeg-research/miller2018_Tongariro_SP_inversion/master
-
 Notebooks to run inversion code for SP models at Mt Tongariro hydrothermal system. Published as "Segmentation of vapour and condensate in a hydrothermal system: Insights from self-potential inversion at Mount Tongariro, New Zealand"
 
 .. image:: Figure2_Js_model.png
