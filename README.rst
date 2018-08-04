@@ -6,12 +6,10 @@ miller2018_Tongariro_SP_inversion
 
 Notebooks to run inversion code for SP models at Mt Tongariro hydrothermal system. Published as "Distribution of vapour and condensate in a hydrothermal system: Insights from self-potential inversion at Mount Tongariro, New Zealand"
 
+https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL078780
+
 .. image:: Figure2_Js_model.png
     :width: 70%
-
-**Paper**
-
-https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL078780
 
 
 **Abstract**
